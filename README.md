@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1q8yrPTgCH2WUWCMrz3vLuVFYT3wJOhJO/view?usp=shari
 
 ### Home Page
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%201.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/8b3b2601-aa8d-4cfd-97fb-c5e1dddb439a)
 
 ![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%202.png)
 
