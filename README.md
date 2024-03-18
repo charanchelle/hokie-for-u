@@ -14,29 +14,29 @@ https://drive.google.com/file/d/1q8yrPTgCH2WUWCMrz3vLuVFYT3wJOhJO/view?usp=shari
 
 ![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/8b3b2601-aa8d-4cfd-97fb-c5e1dddb439a)
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%202.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/7b6972ce-6a22-40aa-9132-0fbdfb9d0470)
 
 ### Registration Page
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%203.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/bc6cc725-7ddb-46ea-b051-c00327213619)
 
 ### Login Page
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%204.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/9e0fefba-a27a-42d7-9858-051bec5ad969)
 
 ### Dashboard Page
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%205.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/af9e103b-a6c4-470c-b4a0-08c21bb2666f)
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%206.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/12d3edfb-590b-4616-9ac3-2b4ea1fe309d)
 
 ### My Jobs Page
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%207.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/16bd35d5-de13-4d77-b135-b70b03bdc1ed)
 
 ### My Profile Page
 
-![alt text](https://github.com/charanchelle/hokie-for-u/tree/main/Files/screenshots/Screenshot%208.png)
+![alt text](https://github.com/charanchelle/hokie-for-u/assets/163809776/2a095cee-75d6-4cf0-bff3-8ef1c4aeb6ed)
 
 
 ### _**IMPORTANT NOTES**_ - 
